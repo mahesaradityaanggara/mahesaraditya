@@ -1,0 +1,35 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    color: #444;
+}
+    
+.wrapper {
+    width: 600px;
+}
+
+.table tr td:first-child{
+    font-weight: 700;
+}
+
+.photo{
+    border-radius: 0rem;
+}
+
+hr{
+    border: 1px solid #efefef;
+}
+
+.p{
+    font-size: 12px;
+}
+
+.photo{
+    padding-left: 40%;
+}
